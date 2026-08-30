@@ -1,0 +1,21 @@
+Para retomar o iniciar una nueva sesión en otro momento, los pasos directos son:
+
+Abrir Git Bash en la carpeta del proyecto (cd ~/OneDrive/Desktop/proyectos/realmanagement).
+
+Iniciar Aider:
+Bash
+aider --model gemini/gemini-3.6-flash
+
+Cargar el archivo de reglas en el prompt:
+Plaintext
+/add skills\negociar\data\canon\SKILL-SPEC.md
+
+Iniciar tu consulta
+
+Escribe tu instrucción o el caso que quieres negociar:
+Plaintext
+Activa el rol de negociación y comencemos
+
+Salir
+Plaintext
+/exit

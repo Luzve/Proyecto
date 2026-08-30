@@ -1,0 +1,20 @@
+{
+  "name": "negociar",
+  "version": "1.0.8",
+  "description": "Advisor on communication, people management, sales and negotiation (Tarásov / Arti Galiev). Thinks against a canon of 275 principles and 1019 recorded negotiations from live classes: reconstructs what is really going on, names your blind spot with tact, and lays out the moves step by step with the other side's objections and your answer to each. A strategy consultant, not a copywriter. Answers in Spanish.",
+  "author": {
+    "name": "Artur Galiev"
+  },
+  "keywords": [
+    "communication",
+    "people-management",
+    "negotiation",
+    "sales",
+    "conflict-resolution",
+    "tarasov",
+    "claude-code",
+    "espanol"
+  ],
+  "license": "CC-BY-NC-SA-4.0 (content) / MIT (code)",
+  "homepage": "https://instagram.com/arti_galiev"
+}
